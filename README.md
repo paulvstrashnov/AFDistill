@@ -111,7 +111,7 @@ Similarly as for TM, if there is no `plddt_precomputed.pkl`, it'll take a while 
 In this case, it is recommended to run:
 ```bash
 cd dataset
-python dataset_plddt.py --af_data --precomputed_data
+python dataset_plddt.py --af_data <SwissProt_directory> --dump_results precomputed_data.pkl
 ```
 
 ### Training Results
