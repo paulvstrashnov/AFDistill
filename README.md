@@ -23,7 +23,7 @@ Top diagram shows distillation training of AFDistill. The scores from AlphaFold'
 </p>
 
 ## Environment
-To run this code, please install PyTorch and Pytorch Lightning (we tested the code on Pytorch 1.13 and Pytorch Lightning 1.8.1)
+To run this code, please install PyTorch and Pytorch Lightning (we tested the code on Pytorch 1.13, Pytorch Lightning 1.8.1 and NumPy 1.26.4)
   
 
 ## Data for AFDistill Training
